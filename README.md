@@ -4,6 +4,8 @@
 
 Community design looks into how the community should be structured to increase the value of participation for its members and the impact of the community as a whole.
 
+Download [Mesensei Community Design Kit](Mesensei%20Community%20Design%20Kit.pdf)
+
 ## License
 
 Community Design Kit by Mesensei is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
