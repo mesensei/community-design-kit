@@ -12,7 +12,7 @@ Download [Mesensei Community Design Kit](Mesensei%20Community%20Design%20Kit.pdf
 
 Community design tutorial gives a practical hands on introduction into community design and showcases how to Community Design Kit.
 
-Download Mesensei Community Design Tutorial: https://github.com/mesensei/community-design-kit/blob/master/Mesensei%20Community%20Design%20Tutorial.pdf
+Download [Mesensei Community Design tutorial](Mesensei%20Community%20Design%20tutorial.pdf)
 
 ## License
 
